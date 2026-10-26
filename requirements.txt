@@ -1,0 +1,18 @@
+# Core testing
+pytest==8.3.4
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+
+# HTTP client
+requests==2.32.3
+charset-normalizer==3.4.1
+
+# Schema validation
+jsonschema==4.23.0
+
+# Selenium (E2E)
+selenium==4.27.1
+webdriver-manager==4.0.2
+
+# Reporting / utilities
+pytest-metadata==3.1.1
